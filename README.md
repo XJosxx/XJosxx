@@ -26,14 +26,14 @@ Soy estudiante de **Ingeniería de Software en la UNMSM**, apasionado por la con
 <br>
 
 
-### 📊 Mis Estadísticas en GitHub
+### 📊 Estadísticas Github
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=XJosxx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=XJosxx&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XJosxx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XJosxx&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📅 Mi Actividad
-![GitHub Activity](https://github-readme-streak-stats.herokuapp.com?user=XJosxx&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XJosxx&theme=radical&area=true)
 
 </a>
 
