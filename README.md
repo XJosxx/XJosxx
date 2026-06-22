@@ -26,11 +26,14 @@ Soy estudiante de **Ingeniería de Software en la UNMSM**, apasionado por la con
 <br>
 
 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+### 📊 Mis Estadísticas en GitHub
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=XJosxx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XJosxx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📅 Mi Actividad
+![GitHub Activity](https://github-readme-streak-stats.herokuapp.com?user=XJosxx&theme=radical)
 
 </a>
 
@@ -38,4 +41,4 @@ Soy estudiante de **Ingeniería de Software en la UNMSM**, apasionado por la con
 
 ### 🛠️ My Projects
 
-**PROXIMAMENTE**
+## PROXIMAMENTE
