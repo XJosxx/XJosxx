@@ -27,10 +27,9 @@ Soy estudiante de **Ingeniería de Software en la UNMSM**, apasionado por la con
 
 
 ### 📊 Estadísticas GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=XJosxx&show_icons=true&hide_border=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XJosxx&layout=compact&hide_border=true&theme=radical" alt="Top Langs" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=XJosxx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XJosxx&layout=compact&hide_border=true&theme=radical" />
 
 ### 📅 Actividad
 <img src="https://github-readme-streak-stats.herokuapp.com?user=XJosxx&theme=radical&hide_border=true" alt="GitHub Streak" />
