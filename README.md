@@ -1,7 +1,7 @@
 ## Hola, soy Jose Luis **(Josx)**
 
 Soy estudiante de **Ingeniería de Software en la UNMSM**, apasionado por la construcción de sistemas robustos, escalables y mantenibles. Me enfoco en aplicar principios de **arquitectura de software** y **clean code** en cada línea de código que escribo.
-(Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+(Backend Developer) 🛠️. 
 <br/>
 <br/>
 
@@ -18,8 +18,9 @@ Soy estudiante de **Ingeniería de Software en la UNMSM**, apasionado por la con
 
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.mysql.com/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/mysql/mysql.svg" alt="mysql" height='42px'/> 
+<a href="https://www.mysql.com/" target="_blank">
+  <img align="left" alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+</a>
 </a>
 
 <br>
@@ -37,4 +38,4 @@ Soy estudiante de **Ingeniería de Software en la UNMSM**, apasionado por la con
 
 ### 🛠️ My Projects
 
-PROXIMAMENTE
+**PROXIMAMENTE**
