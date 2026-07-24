@@ -41,7 +41,7 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XJosxx&theme=radical" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api?username=XJosxx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=XJosxx&theme=radical&hide_border=true" height="170" />
 </div>
 
@@ -50,38 +50,7 @@
 ### 📈 Lenguajes más usados
 
 <div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XJosxx&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XJosxx&theme=radical" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <div style="background: #141321; border: 1px solid #fe428e; border-radius: 6px; padding: 20px; display: inline-block;">
-
-    <div style="display: flex; height: 10px; width: 400px; border-radius: 5px; overflow: hidden;">
-      <div style="width: 93%; height: 10px; background: #b07219;" title="Java 93%"></div>
-      <div style="width: 5%; height: 10px; background: #3572A5;" title="Python 5%"></div>
-      <div style="width: 2%; height: 10px; background: #563d7c;" title="CSS 2%"></div>
-    </div>
-
-    <div style="margin-top: 14px;">
-      <span style="color: #b07219; font-size: 14px;">●</span>
-      <span style="color: #a9fef7; font-size: 14px;"> Java &nbsp;</span>
-      <span style="color: #6c7086; font-size: 14px;">93%</span>
-      <span style="margin-left: 18px; color: #3572A5; font-size: 14px;">●</span>
-      <span style="color: #a9fef7; font-size: 14px;"> Python &nbsp;</span>
-      <span style="color: #6c7086; font-size: 14px;">5%</span>
-      <span style="margin-left: 18px; color: #563d7c; font-size: 14px;">●</span>
-      <span style="color: #a9fef7; font-size: 14px;"> CSS &nbsp;</span>
-      <span style="color: #6c7086; font-size: 14px;">2%</span>
-    </div>
-
-  </div>
-
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=XJosxx&hide_border=true&theme=radical" />
 </div>
 
 <br/>
