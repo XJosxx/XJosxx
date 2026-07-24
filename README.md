@@ -41,7 +41,7 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XJosxx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=XJosxx&theme=radical" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=XJosxx&theme=radical&hide_border=true" height="170" />
 </div>
 
@@ -50,13 +50,10 @@
 ### 📈 Lenguajes más usados
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XJosxx&hide_border=true&layout=compact&theme=radical" />
-</div>
 
-<br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=XJosxx&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=XJosxx&theme=radical" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XJosxx&hide_border=true&theme=radical" />
 </div>
 
 <br/>
