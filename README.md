@@ -50,13 +50,13 @@
 ### 📈 Lenguajes más usados
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XJosxx&hide_border=true&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XJosxx&hide_border=true&layout=compact&theme=radical" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XJosxx&hide_border=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XJosxx&hide_border=true&theme=radical" />
 </div>
 
 <br/>
