@@ -58,6 +58,34 @@
 
 <br/>
 
+<div align="center">
+
+  <div style="background: #141321; border: 1px solid #fe428e; border-radius: 6px; padding: 20px; display: inline-block;">
+
+    <div style="display: flex; height: 10px; width: 400px; border-radius: 5px; overflow: hidden;">
+      <div style="width: 93%; height: 10px; background: #b07219;" title="Java 93%"></div>
+      <div style="width: 5%; height: 10px; background: #3572A5;" title="Python 5%"></div>
+      <div style="width: 2%; height: 10px; background: #563d7c;" title="CSS 2%"></div>
+    </div>
+
+    <div style="margin-top: 14px;">
+      <span style="color: #b07219; font-size: 14px;">●</span>
+      <span style="color: #a9fef7; font-size: 14px;"> Java &nbsp;</span>
+      <span style="color: #6c7086; font-size: 14px;">93%</span>
+      <span style="margin-left: 18px; color: #3572A5; font-size: 14px;">●</span>
+      <span style="color: #a9fef7; font-size: 14px;"> Python &nbsp;</span>
+      <span style="color: #6c7086; font-size: 14px;">5%</span>
+      <span style="margin-left: 18px; color: #563d7c; font-size: 14px;">●</span>
+      <span style="color: #a9fef7; font-size: 14px;"> CSS &nbsp;</span>
+      <span style="color: #6c7086; font-size: 14px;">2%</span>
+    </div>
+
+  </div>
+
+</div>
+
+<br/>
+
 ---
 
 <p align="center">⭐ De <a href="https://github.com/XJosxx">XJosxx</a></p>
