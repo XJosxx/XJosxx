@@ -1,43 +1,67 @@
+<img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" align="right" />
+
 ## Hola, soy Jose Luis **(Josx)**
 
-Soy estudiante de **Ingeniería de Software en la UNMSM**, apasionado por la construcción de sistemas robustos, escalables y mantenibles. Me enfoco en aplicar principios de **arquitectura de software** y **clean code** en cada línea de código que escribo.
-(Backend Developer) 🛠️. 
-<br/>
+> Estudiante de **Ingeniería de Software en la UNMSM** — apasionado por construir sistemas robustos, escalables y mantenibles con **arquitectura de software** y **clean code**.
+
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
 ### 🧐 Sobre mí
 
-- 🎓 &nbsp; **Estudiante de Ingeniería de Software** en la UNMSM (5to ciclo).
-- ⚙️ &nbsp; **Enfoque técnico:** Backend, Arquitectura Limpia (Clean Architecture), y diseño de bases de datos.
+- 🎓 **Estudiante de Ingeniería de Software** — UNMSM (5to ciclo)
+- ⚙️ **Enfoque técnico:** Backend · Clean Architecture · Diseño de bases de datos
+- 🌱 Actualmente profundizando en **Spring Boot**, **Docker** y **arquitecturas distribuidas**
 
-<br>
+<br/>
 
-### 🔨 Lenguajes y herramientas:
+### 🔨 Lenguajes y herramientas
 
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img align="left" alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-</a>
-</a>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="42" alt="Spring" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="42" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3" />
+</div>
 
-<br>
+<br/>
 
+### 📊 Estadísticas de GitHub
 
-### 📊 Estadísticas GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=XJosxx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XJosxx&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=XJosxx&theme=radical&hide_border=true" height="170" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XJosxx&layout=compact&hide_border=true&theme=radical" />
+<br/>
 
-### 📅 Actividad
-<img src="https://github-readme-streak-stats.herokuapp.com?user=XJosxx&theme=radical&hide_border=true" alt="GitHub Streak" />
+### 📈 Lenguajes más usados
 
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XJosxx&hide_border=true&layout=compact&theme=radical" />
+</div>
 
-<br>
+<br/>
 
-### 🛠️ My Projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XJosxx&hide_border=true&theme=radical" />
+</div>
 
-## PROXIMAMENTE
+<br/>
+
+---
+
+<p align="center">⭐ De <a href="https://github.com/XJosxx">XJosxx</a></p>
+
